@@ -1,0 +1,12 @@
+{
+    "name": "raf/formit",
+    "description": "UI Library for PHP Applications",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raf",
+            "email": "raftalks@gmail.com"
+        }
+    ],
+    "require": {}
+}
