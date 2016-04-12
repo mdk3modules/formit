@@ -1,0 +1,6 @@
+suites:
+    formit_suite:
+        namespace: Formit
+        psr4_prefix: Formit
+        src_path: src
+        spec_prefix: spec
